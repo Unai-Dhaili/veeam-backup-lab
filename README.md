@@ -33,9 +33,9 @@ It focuses on simulating real-world IT incidents, validating recovery strategies
 ##  Documentation
  Full technical report (72 pages, English & Spanish): step-by-step procedures, screenshots, and results.  
 
- [Download PDF ENG](.[Technical Project - Veeam - UD .pdf](https://github.com/user-attachments/files/22450860/Technical.Project.-.Veeam.-.UD.pdf))
+ Download PDF ENG - [Technical Project - Veeam - UD .pdf](https://github.com/user-attachments/files/22450860/Technical.Project.-.Veeam.-.UD.pdf)
 
- [Download PDF SPA](.[Proyecto Técnico - Veeam - UD.pdf](https://github.com/user-attachments/files/22450847/Proyecto.Tecnico.-.Veeam.-.UD.pdf))
+ Download PDF SPA - [Proyecto Técnico - Veeam - UD.pdf](https://github.com/user-attachments/files/22450847/Proyecto.Tecnico.-.Veeam.-.UD.pdf)
 
 ---
 
