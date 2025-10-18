@@ -44,8 +44,4 @@ It focuses on simulating real-world IT incidents, validating recovery strategies
 - Explore **cloud integration** (Azure, AWS)  
 - Implement **advanced Veeam features** (SureBackup, immutability, Veeam ONE)  
 
----
-
-##  Tags
-`Veeam` `VMware` `SysAdmin` `Infrastructure` `Backup` `Disaster-Recovery` `Homelab`  
 
