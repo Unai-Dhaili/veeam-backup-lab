@@ -4,13 +4,13 @@
 
 ---
 
-## 📝 Overview
+##  Overview
 This project documents the deployment of a **backup and recovery solution** in a nested lab environment.  
 It focuses on simulating real-world IT incidents, validating recovery strategies, and reinforcing professional documentation habits.
 
 ---
 
-## ⚙️ Lab Setup
+##  Lab Setup
 - **Host OS:** Windows 11 + VMware Workstation Pro  
 - **Nested Hypervisor:** VMware ESXi 8.0  
 - **Protected VMs:**
@@ -21,7 +21,7 @@ It focuses on simulating real-world IT incidents, validating recovery strategies
 
 ---
 
-## 🔑 Features Implemented
+##  Features Implemented
 - Deployment & initial configuration  
 - Repository creation & management  
 - Backup jobs (full, incremental, multi-VM)  
@@ -30,7 +30,7 @@ It focuses on simulating real-world IT incidents, validating recovery strategies
 
 ---
     
-## 📄 Documentation
+##  Documentation
 📘 Full technical report (72 pages, English & Spanish): step-by-step procedures, screenshots, and results.  
 
 ➡️ [Download PDF ENG](.[Technical Project - Veeam - UD .pdf](https://github.com/user-attachments/files/22450860/Technical.Project.-.Veeam.-.UD.pdf))
@@ -39,7 +39,7 @@ It focuses on simulating real-world IT incidents, validating recovery strategies
 
 ---
 
-## 🚀 Possible Next Steps
+##  Possible Next Steps
 - Extend with **Linux Upskill Challenge + LFCS prep**  
 - Explore **cloud integration** (Azure, AWS)  
 - Implement **advanced Veeam features** (SureBackup, immutability, Veeam ONE)  
